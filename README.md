@@ -12,8 +12,4 @@ B.Tech Student | Artificial Intelligence and Data Engineering | IIIT Kota
 
 **Google Colab Notebook:** [Open Project](https://colab.research.google.com/drive/11PmnApzr_E7tpgkNVHpXPep0S-TY4yx0)
 
-### 2. Fake News Detection Using NLP
-
-- Machine learning project for classifying news articles as likely real or fake.
-- Technologies: Python, NLP, Scikit-learn, TF-IDF, FastAPI, Streamlit.
 
